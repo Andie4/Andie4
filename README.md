@@ -1,7 +1,7 @@
 <h1 align="center">☀️ Bonjour, je suis Andréa !</h1>
 <h3 align="center">Développeuse web en devenir</h3>
 
-- 🔭 Mon dernier projet est sur **une exposition virtuelle disponible avec cette URL : https://albert.xploria.fr/ **
+- 🔭 Mon dernier projet est sur une exposition virtuelle disponible avec cette URL : https://albert.xploria.fr/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
