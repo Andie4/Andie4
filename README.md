@@ -1,5 +1,5 @@
 <h1 align="center">☀️ Bonjour,  je suis Andréa !</h1>
-<h3 align="center">Développeuse web en devenir</h3>
+<h3 align="center">Développeuse full stack en devenir</h3>
 
 - 🔭 Mon dernier projet est sur une exposition virtuelle disponible avec cette URL : https://albert.xploria.fr/
 
